@@ -1,0 +1,7 @@
+
+.content-header{
+    background: url('/src/images/contentheader-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
